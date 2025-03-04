@@ -1,1 +1,0 @@
-# skid.loger.image
